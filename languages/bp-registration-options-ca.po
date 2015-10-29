@@ -70,9 +70,9 @@ msgid ""
 "until your account is approved. Once approved or denied you will receive an "
 "email notice."
 msgstr ""
-"El vostre compte està pendent d'aprovació per part de l'AMPA. Mentrestant la "
-"interacció amb la intranet està limitada al vostre perfil. Rebreu una "
-"notificació per correu electrònic en breu."
+"El vostre compte està pendent d'aprovació per l'administrador del lloc web. "
+"Mentrestant la interacció amb els aspectes socials està limitada al vostre "
+"perfil. Rebreu una notificació per correu electrònic en breu."
 
 #: includes/admin.php:375
 #, php-format
